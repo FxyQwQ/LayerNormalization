@@ -1,2 +1,2 @@
 # LayerNormalization
-do something before finding a jon
+do something before finding a job

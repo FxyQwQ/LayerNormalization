@@ -22,5 +22,4 @@ class BatchNormalization:
 
         return self.gamma.view(1, -1, 1) * x_normalized + self.beta.view(1, -1, 1)
         
-
-        
+### other norm -> to be continued
